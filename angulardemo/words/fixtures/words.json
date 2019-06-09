@@ -1,0 +1,27 @@
+[
+  {
+    "model": "words.PartOfSpeech",
+    "pk": 1,
+    "fields": {
+      "definition" : "verb"
+    }
+  },
+  {
+    "model": "words.Word",
+    "pk": 1,
+    "fields": {
+      "definition": "ullu",
+      "translation": "speak",
+      "partOfSpeech": 1
+    }
+  },
+  {
+    "model": "words.Word",
+    "pk": 2,
+    "fields": {
+      "definition": "bullu",
+      "translation": "die",
+      "partOfSpeech": 1
+    }
+  }
+]
