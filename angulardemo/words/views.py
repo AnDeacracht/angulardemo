@@ -1,6 +1,7 @@
 from django.http import HttpResponse, JsonResponse
 from words.models import Word
 from words.serializers import WordSerializer
+from django.core import serializers
 
 
 # Create your views here.
