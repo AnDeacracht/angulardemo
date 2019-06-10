@@ -1,4 +1,3 @@
 # angulardemo
-angular django shite
 
-hello kat
+hello kat :3
